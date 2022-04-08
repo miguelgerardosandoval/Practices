@@ -1,3 +1,3 @@
 #Demo
 
-Somme simple projects of python
+Somme simple projects of python!
